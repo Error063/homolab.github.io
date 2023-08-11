@@ -1,0 +1,1 @@
+import{_ as t,X as n,Y as c,Z as e}from"./framework-5e2d5d2b.js";const o={},s=e("p",null,[e("img",{src:"https://img1.imgtp.com/2023/08/11/hbtuXVF5.png",alt:"image-20230811090621356",loading:"lazy"})],-1),_=[s];function a(i,l){return n(),c("div",null,_)}const m=t(o,[["render",a],["__file","index.html.vue"]]);export{m as default};
